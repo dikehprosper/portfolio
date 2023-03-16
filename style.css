@@ -764,7 +764,7 @@ footer a {
 }
 
 .portfolio__item-image img {
-    object-fit: contain;
+    
     height: 100%;
 }
 
