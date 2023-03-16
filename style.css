@@ -758,14 +758,14 @@ footer a {
 }
 
 .portfolio__item-image {
-    border-radius: 1.5rem;
-    overflow: hidden;
+    border-radius: 0.75rem;
+    
     height: 200px;
 }
 
 .portfolio__item-image img {
-    height:400px;
-    object-fit: fill;
+    object-fit: contain;
+    height: 100%;
 }
 
 .portfolio__item h3 {
